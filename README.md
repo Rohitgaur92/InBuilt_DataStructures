@@ -1,1 +1,1 @@
-### InBuilt DataStructures in Python.
+### InBuilt Data Structures in Python.
